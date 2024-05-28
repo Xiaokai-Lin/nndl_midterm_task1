@@ -1,0 +1,3 @@
+lr: 0.05
+optimizer_name: SGD
+pretrained: true

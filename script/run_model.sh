@@ -1,0 +1,1 @@
+python trainer.py --workpath /home/longkailin/sms2/nndl/midterm/ --save_name cub_classifier --pretrained True --epochs 1 --optimizer_name SGD --lr 0.1
